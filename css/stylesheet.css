@@ -1,0 +1,17 @@
+.digital p {
+  background-color: red;
+}
+
+.analog p {
+  background-color: yellow;
+}
+/* @media screen and (max-width: 768px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+} */
+body {background-image: url('../img/bridge.jpeg');
+background-size: cover;
+background-repeat: no-repeat;
+}
